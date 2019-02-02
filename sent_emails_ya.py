@@ -10,7 +10,7 @@ from time import sleep
 import json
 
 
-user_data = json.loads(open('leap_json.json').read())
+user_data = json.loads(open('your_contacts.json').read())
 YOUR_EMAIL = ""
 YOUR_PASS = ""
 
